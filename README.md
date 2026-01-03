@@ -54,8 +54,8 @@ Cloner le projet :
 
 Bash
 
-git clone https://github.com/votre-utilisateur/votre-repo-mlops.git
-cd votre-repo-mlops
+https://github.com/Mori-yim/Formation-MLOPS.git
+cd Formation-MLOPS
 Installer les dépendances (via Poetry par exemple) :
 
 Bash
@@ -73,7 +73,7 @@ Project 1 : End-to-End Price Predictor : Pipeline complet de la donnée au dépl
 (À venir...)
 
 ✍️ Contact & Ressources
-Formation suivie : [Nom de l'organisme ou du cours]
+Formation suivie : [MLOPS]
 
 LinkedIn : [Lien vers votre profil]
 
